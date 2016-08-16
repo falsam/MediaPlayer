@@ -1,2 +1,2 @@
 # MediaPlayer
-Audio Video Player make powered with PureBasic &amp; JavaScript.
+Audio Video Player powered with PureBasic &amp; JavaScript.
